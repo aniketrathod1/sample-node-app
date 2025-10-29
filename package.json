@@ -1,0 +1,10 @@
+{
+  "name": "sample-node-app",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node index.js & sleep 2 && node test.js"
+  },
+  "dependencies": {}
+}
+
