@@ -38,5 +38,4 @@ jobs:
       - name: Push image to DockerHub
         run: docker push aniketrathod0618/ci-cd-demo:latest
 
-      # Step 6: Log in to DockerHub
-      - name: Log in t
+      
